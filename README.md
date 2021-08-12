@@ -3,7 +3,9 @@
 __Project creation date:__ 28.12.2018
 
 ## Description
-This project generates a randomly generated 3D world with Dual Contouring for the mesh generation. The world is infinite in all 3 dimensions.\
+This project generates a randomly generated 3D world with Dual Contouring for the mesh generation.\
+The world is infinite in all 3 dimensions.\
+The project is the successor of _Surface_Nets_ and aims to to have both smooth terrain and sharp edges.\
 The chunk generation can be done with:
 * Multithreaded C++ & SSE2
 * GPU and OpenCL.
